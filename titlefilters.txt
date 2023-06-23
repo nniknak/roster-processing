@@ -1,0 +1,48 @@
+GOOD VALUES
+outreach
+regulatory
+community
+CXO
+engagement
+experience
+CCO
+member experience
+strategist
+market
+operations
+COO
+compliance
+communications
+manager
+strategy
+CEO
+chief executive
+president
+
+BAD
+vice
+vp
+risk
+lending
+mortgage
+loan
+diversity
+dei
+attorney
+digital
+technology
+treasurer
+audit
+information
+director
+chair
+government
+human resources
+finance
+administrative
+board
+CRO
+financial
+committee
+assistant
+CFO
